@@ -1,4 +1,4 @@
-Node.js CI/CD Pipeline Project
+Node.js CI/CD Pipeline Project --
 This project demonstrates a streamlined CI/CD pipeline for a Node.js application, built from the ground up to showcase automated deployment using GitHub Actions and PM2 on a Linux VPS. It’s a practical example of how I set up a production-ready workflow for deploying web apps efficiently.
 What's Inside?
 
