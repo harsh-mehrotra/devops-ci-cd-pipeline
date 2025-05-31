@@ -7,6 +7,7 @@ app.get('/', (req, res) => {
   res.send('✅ CI/CD Pipeline Deployment Successful!');
 });
 
+
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+  console.log(`Server is running on port ${PORT}`);
 });
